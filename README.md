@@ -35,4 +35,4 @@ This analysis enables the telecom company to:
 2. Develop personalized retention strategies for at-risk customers.
 3. Make data-driven decisions to improve customer satisfaction and revenue.
 
-**Check out the full analysis and code in this repository!**
+**Check out the full analysis in this repository!**
