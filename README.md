@@ -25,7 +25,7 @@ Customer churn, the loss of clients or subscribers is a critical challenge in th
 
 ## Tools & Technologies
 
-*Excel(Pivot Tables and Dashboarding)
+Excel(Pivot Tables and Dashboarding)
 
 ## Outcome
 
