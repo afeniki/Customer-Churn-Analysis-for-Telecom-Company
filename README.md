@@ -5,7 +5,7 @@ This project explores customer churn in a telecom company to identify patterns, 
 
 ## Project Overview
 
-Customer churn—the loss of clients or subscribers—is a critical challenge in the telecom industry. By analyzing historical customer data, this project aims to answer key questions:
+Customer churn—the loss of clients or subscribers is a critical challenge in the telecom industry. By analyzing historical customer data, this project aims to answer key questions:
 
 * Which customers are most likely to churn?
 * At what point they're likely to leave
